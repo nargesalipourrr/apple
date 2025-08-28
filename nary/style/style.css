@@ -1,0 +1,57 @@
+h1{margin-top: 55px;
+text-align: center;
+color: black;
+
+}
+div{
+    text-align: center;
+    display:block;
+   font-size: 18px;
+   padding-top: 2px;
+   color: rgb(90, 89, 89);}
+  
+img{
+      width: 40%;
+            display: block;
+            margin: 0px auto;
+            border-radius: 10px;
+            height: 10px 10px;
+             padding: 35px;
+    
+}
+section{
+    display: flex;
+   
+    color: azure;
+    height: 9vh;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 8px;
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 50px;
+    text-decoration: none;
+    background: blue;
+    color: azure;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+section>#mari{
+background-color: white;
+color: blue;
+}
+footer>h1>div{
+    line-height: 0px;
+}
+body{
+    background-color: rgb(225, 248, 250);
+}
+h3{
+    text-align: center;
+    color: rgb(152, 72, 72);
+
+}
